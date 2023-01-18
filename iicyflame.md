@@ -58,4 +58,4 @@ of electricity so it is safe),third make all the connections with the remaining 
 
 
 
-| Total           |                                       | $84.8 |
+| Total           |                                       | $86.8 |
